@@ -1,3 +1,4 @@
-pandas
-openpyxl
-streamlit
+streamlit==1.55.0
+pandas>=2.2,<3
+openpyxl>=3.1,<4
+altair>=5,<7
